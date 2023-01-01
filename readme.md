@@ -18,6 +18,8 @@ LICENSE: [MIT](./licence.md)
 
 5.[git clone](./clone.md)
 
+6.[git push](./push.md)
+
 [Графические схемы](./graphic%20schemes.md) 
 ---
 
